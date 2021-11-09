@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/98a6754b-5474-44a8-bd5f-f0369f8d4e89/resourceGroups/AZ204-08.11.2021/providers/Microsoft.Web/sites/umitwebapp",
+    "appService.deploySubpath": "."
+}
